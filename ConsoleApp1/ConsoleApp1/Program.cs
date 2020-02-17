@@ -37,6 +37,10 @@ namespace ConsoleApp1
         // n = 2 =>1, 3, 5, 9
         //n = 5 => 1 , 6
         // n = 3 => 1 , 4 
+
+
+
+
         private static void JumpIndexyBy(int[] arr, int n)
         {
 
